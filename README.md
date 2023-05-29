@@ -37,12 +37,12 @@ ___
 
 ### esempi: curve  
 Curve di Lissajous  
-[Curve di Lissajous: wikipedia](https://it.wikipedia.org/wiki/Figura_di_Lissajous) 
-[Lissajous: the coding train](https://www.youtube.com/watch?v=glDU8Nsyidg)
+[Curve di Lissajous: wikipedia](https://it.wikipedia.org/wiki/Figura_di_Lissajous)  
+[Lissajous: the coding train](https://www.youtube.com/watch?v=glDU8Nsyidg)  
 
 sunflower spiral: phyllotaxis  
-[phyllotaxis: the coding train](https://thecodingtrain.com/tracks/algorithmic-botany/30-phyllotaxis)
-[phyllotaxis: code sample](https://editor.p5js.org/codingtrain/sketches/CehY0jsLV)
+[phyllotaxis: the coding train](https://thecodingtrain.com/tracks/algorithmic-botany/30-phyllotaxis)  
+[phyllotaxis: code sample](https://editor.p5js.org/codingtrain/sketches/CehY0jsLV)  
 
 ___
 
