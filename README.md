@@ -33,6 +33,19 @@ ___
 [inconvergent.net/generative/](https://inconvergent.net/generative/)  
 [generative-gestaltung.de/2/](http://www.generative-gestaltung.de/2/)  
 
+___
+
+### esempi: curve  
+Curve di Lissajous  
+[Curve di Lissajous: wikipedia](https://it.wikipedia.org/wiki/Figura_di_Lissajous) 
+[Lissajous: the coding train](https://www.youtube.com/watch?v=glDU8Nsyidg)
+
+sunflower spiral: phyllotaxis  
+[phyllotaxis: the coding train](https://thecodingtrain.com/tracks/algorithmic-botany/30-phyllotaxis)
+[phyllotaxis: code sample](https://editor.p5js.org/codingtrain/sketches/CehY0jsLV)
+
+___
+
 ### riferimenti bibliografici
 - Processing: *A Programming Handbook for Visual Designers and Artists Hardcover* – December 19, 2014. (2020). the Mit Press; second edition edition (december 19, 2014).
 - Benedikt Gross, Hartmut Bohnacker, Claudius Lazzeroni: *Generative Design: Visualize, Program, and Create with JavaScript in p5.js* – Princeton Architectural Press -2018
