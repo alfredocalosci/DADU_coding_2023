@@ -44,6 +44,8 @@ sunflower spiral: phyllotaxis
 [phyllotaxis: the coding train](https://thecodingtrain.com/tracks/algorithmic-botany/30-phyllotaxis)  
 [phyllotaxis: code sample](https://editor.p5js.org/codingtrain/sketches/CehY0jsLV)  
 
+[recode project](http://recodeproject.com/)  
+
 ___
 
 ### riferimenti bibliografici
